@@ -31,4 +31,4 @@ MusicTube is a sophisticated video streaming website integrating advanced deep l
   - Utilizes cookies, including JWT cookies, for managing user sessions.
   - Provides a seamless login/logout experience.
 
-## Demo Video
+
